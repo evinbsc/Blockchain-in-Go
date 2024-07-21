@@ -35,19 +35,14 @@ Spew: Allows you to view structs and slices in a clean format in the console.
 Gorilla/mux: A powerful URL router and dispatcher for Go.
 Godotenv: Loads environment variables from a .env file.
 
-Environment Configuration
-Create a .env file in the root directory of your project with the following content to define the port for the HTTP server:
-
-PORT=8080
-
-Running the Project
+## Running the Project
 
 Clone the repository:
 
 git clone https://github.com/evinbsc/Blockchain_in_Go.git
 cd Blockchain_in_Go
 
-Run the application:
+## Run the application:
 
 go run main.go
 

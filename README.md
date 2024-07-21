@@ -31,9 +31,9 @@ go get github.com/davecgh/go-spew/spew
 go get github.com/gorilla/mux
 go get github.com/joho/godotenv
 
-Spew: Allows you to view structs and slices in a clean format in the console.
-Gorilla/mux: A powerful URL router and dispatcher for Go.
-Godotenv: Loads environment variables from a .env file.
+- **Spew: Allows you to view structs and slices in a clean format in the console.
+- **Gorilla/mux: A powerful URL router and dispatcher for Go.
+- **Godotenv: Loads environment variables from a .env file.
 
 ## Running the Project
 

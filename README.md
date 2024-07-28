@@ -1,6 +1,6 @@
 # Blockchain in Go
 
-This project implements a basic blockchain in Go, providing a foundational understanding of blockchain technology. The blockchain records and validates data, and can be interacted with through a web server, allowing users to view and add new blocks to the chain.
+This project implements a blockchain in Go, providing an understanding of blockchain technology. The blockchain records and validates data, and can be interacted with through a web server, allowing users to view and add new blocks to the chain.
 
 ## Purpose
 

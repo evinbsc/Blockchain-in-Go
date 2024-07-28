@@ -39,7 +39,7 @@ go get github.com/joho/godotenv
 
 Clone the repository:
 
-git clone https://github.com/evinbsc/Blockchain_in_Go.git
+git clone https://github.com/evinbsc/Blockchain-in-Go.git
 cd Blockchain_in_Go
 
 ## Run the application:

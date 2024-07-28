@@ -46,4 +46,4 @@ cd Blockchain_in_Go
 
 go run main.go
 
-Open your browser and navigate to http://localhost:8080 to view the blockchain.
+Open your browser and navigate to your local host port to view the blockchain.

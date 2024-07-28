@@ -1,10 +1,10 @@
 # Blockchain in Go
 
-This project implements a basic blockchain in Go, providing a foundational understanding of blockchain technology. The blockchain records and validates heart rate data (beats per minute or BPM), and can be interacted with through a web server, allowing users to view and add new blocks to the chain.
+This project implements a basic blockchain in Go, providing a foundational understanding of blockchain technology. The blockchain records and validates data, and can be interacted with through a web server, allowing users to view and add new blocks to the chain.
 
 ## Purpose
 
-The purpose of this project is to demonstrate how a simple blockchain works by:
+The purpose of this project is to demonstrate how a blockchain works by:
 - Creating a chain of blocks that securely records data.
 - Utilizing hashing to maintain the integrity and order of the blockchain.
 - Providing a web interface to view and add blocks to the blockchain.
